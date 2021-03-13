@@ -1,0 +1,14 @@
+login:
+  selenium_login:
+    username: "xxxxxx"
+    password: "xxxxxx"
+  download_login:
+    username: "xxxxxx"
+    password: "xxxxxx"
+
+path:
+  download_path: "xxxxxx"
+  unzip_path: "xxxxxx"
+
+thread_pool:
+  max_workers: 5
