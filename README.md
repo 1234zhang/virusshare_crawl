@@ -24,7 +24,7 @@ ps： 如果需要更多的配置，建议写在config.yml文件中，然后在c
 2. 创建venv文件： virtualenv venv
 3. 进入venv虚拟环境： source venv/bin/activate
 
-### 虚拟环境中的爬虫环境配置
+### 运行步骤
 0. 保证运行的环境之下有chrome
 1. [下载chromedriver](https://chromedriver.chromium.org/downloads)
 2. 将apk.sh中的路径进行修改，改为你unzip的路径名下
